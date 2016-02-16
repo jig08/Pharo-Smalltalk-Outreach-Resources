@@ -5,4 +5,5 @@
 - [Pharo Family SVG](http://forum.world.st/attachment/4853483/1/pharo-family.svg)
 - [Pharo Family EMail Thread](http://forum.world.st/Pharo-family-td4853483.html)
 - [Pharo Family GitHub Repository](https://github.com/AdamSadovsky/pharo-family)
-
+- [ESUG: Pharo](http://esug.org/data/ESUG2015/2%20tuesday/0900-1030%20Pharo/01-2015-ESUG-Pharo.pdf)
+- [ESUG: Towards Well Planned CodeCity ](http://esug.org/data/ESUG2015/4%20thursday/1500-1530%20Towards%20well%20planed%20codecity/Towards%20well%20planed%20CodeCity.pdf)
