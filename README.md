@@ -1,5 +1,7 @@
 # Pharo/Smalltalk Outreach Resources
 
+Banners/Flyers/Posters which could come handy in any open conference...
+
 - [Pharo Flyer/Cheat Sheet](https://github.com/jig08/Pharo-Smalltalk-Outreach-Resources/blob/master/flyer-cheat-sheet.pdf)
 - [Pharo: In short](https://github.com/jig08/Pharo-Smalltalk-Outreach-Resources/blob/master/Pharo-%20In_Short.pdf)
 - [Block: Morphic, redone](https://github.com/jig08/Pharo-Smalltalk-Outreach-Resources/blob/master/Block-Morphic_Redone.pdf)
